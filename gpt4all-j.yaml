@@ -19,7 +19,7 @@ config_file: |
 files:
     - filename: "koala-7B.ggmlv3.q5_1.bin"
       sha256: "ad107ba427cbf945f5c0adfbd34980ab35592f0881ed9a7deafd3fd6f070265d"
-      uri: "ftp://192.168.2.220/koala-7B-GGML/koala-7B.ggmlv3.q5_1.bin"
+      uri: "http://192.168.2.13:5000/fsdownload/Rq67T49ZW/koala-7B.ggmlv3.q5_1.bin"
 
 prompt_templates:
 - name: "gpt4all-completion"
