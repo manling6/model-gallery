@@ -11,7 +11,7 @@ urls:
 config_file: |
     backend: llama
     parameters:
-      model: koala
+      model: koala-7B.ggmlv3.q5_1.bin
       top_k: 80
       temperature: 0.2
       top_p: 0.7
